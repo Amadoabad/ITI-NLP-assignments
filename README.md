@@ -18,8 +18,10 @@ This repository contains assignments and tasks completed as part of the NLP (Nat
   - The notebook uses a 1D regression dataset with a multi-layer neural network for training and evaluation.
 
 - [**`lec3-stackedlayerednetwork.ipynb`**](https://github.com/Amadoabad/ITI-NLP-assignments/blob/main/lec3-stackedlayerednetwork.ipynb):
-  - A Jupyter notebook illustrating the implementation of a stacked and layered neural network.
-  - It demonstrates techniques for stacking layers in neural networks and includes practical examples using PyTorch.
+  - A Jupyter notebook exploring sentiment analysis using a stacked and layered neural network.
+  - It uses the IMDB movie reviews dataset to classify reviews as positive or negative.
+  - The notebook demonstrates data preprocessing, model architecture design, training, and evaluation.
+  - Techniques covered include embedding layers, recurrent layers (e.g., LSTM or Bidirectional LSTM), and performance optimization using PyTorch.
 
 
 ## Course Overview
