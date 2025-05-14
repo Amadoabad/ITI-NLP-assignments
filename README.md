@@ -4,18 +4,23 @@ This repository contains assignments and tasks completed as part of the NLP (Nat
 
 ## Repository Contents
 
-- **`sskip_gram_cbow.ipynb`**: 
+- [**`sskip_gram_cbow.ipynb`**](https://github.com/Amadoabad/ITI-NLP-assignments/blob/main/sskip_gram_cbow.ipynb): 
   - A Jupyter notebook demonstrating skip-gram and CBOW (Continuous Bag-of-Words) models using Gensim. 
   - It includes examples of loading pre-trained embeddings (e.g., GloVe) and finding similar words or averaging embeddings.
 
-- **`ner_with_spacy.ipynb`**:
+- [**`ner_with_spacy.ipynb`**](https://github.com/Amadoabad/ITI-NLP-assignments/blob/main/ner_with_spacy.ipynb):
   - A Jupyter notebook showcasing Named Entity Recognition (NER) using SpaCy.
   - It covers loading and processing datasets (e.g., CoNLL 2003), converting data to SpaCy-compatible formats, and preparing training configurations for NER pipelines.
 
-- **`testing_building_model.ipynb`**:
+- [**`testing_building_model.ipynb`**](https://github.com/Amadoabad/ITI-NLP-assignments/blob/main/testing_building_model.ipynb):
   - A Jupyter notebook that demonstrates building and training a PyTorch model.
   - It includes steps for creating a training loop, defining a regression dataset, and utilizing various PyTorch functionalities, such as `torch.nn` and `DataLoader`.
   - The notebook uses a 1D regression dataset with a multi-layer neural network for training and evaluation.
+
+- [**`lec3-stackedlayerednetwork.ipynb`**](https://github.com/Amadoabad/ITI-NLP-assignments/blob/main/lec3-stackedlayerednetwork.ipynb):
+  - A Jupyter notebook illustrating the implementation of a stacked and layered neural network.
+  - It demonstrates techniques for stacking layers in neural networks and includes practical examples using PyTorch.
+
 
 ## Course Overview
 
